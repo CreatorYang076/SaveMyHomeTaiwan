@@ -1,0 +1,13 @@
+{
+  "id": "/",
+  "name": "島嶼備忘｜台灣緊急避難指南",
+  "short_name": "島嶼備忘",
+  "description": "離線可讀的台灣緊急避難與民防指南",
+  "lang": "zh-TW",
+  "start_url": "/index.html",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#111510",
+  "theme_color": "#111510",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
